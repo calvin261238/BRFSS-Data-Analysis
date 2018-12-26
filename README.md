@@ -15,11 +15,11 @@ Cigarette smoking causes more than 480,00 deaths each year in U.S, nearly one in
 For this research, I’ve decided to find out whether other factors correlate with cigarette smoking as well.
 I’ve picked factors including education level, income level, and emotional and life satisfaction level.
 
-	Education level:
+ ・Education level:
 With increasing level of awareness on smoking could harm body, I assume that the higher education a person could achieve, the lower probability that this person will smoke.
 
-	Income level:
+ ・Income level:
 Higher income level usually means more money could use to purchase products, i.e. buying cigarette. I assume that the income level will correlate with the number of people smoking.
 
-	Emotional and life satisfaction level:
+ ・Emotional and life satisfaction level:
 People who smoke cigarette sometimes suggest that by smoking from time to time could help them relieve stress. I assume that higher emotional support will lead to lower rate of smoking, while...
