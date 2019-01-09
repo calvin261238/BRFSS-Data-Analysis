@@ -3,6 +3,9 @@ Research Question 1
 I assumed that the result will be: poeple who sleep at least 7hrs will report lower days of physical condition not feeling well, 
 and people who sleep below 7hrs will report higher days of physical condition not feeling well.
 
+Result:
+The graph shows that the assumption is correct; a large amount of people who sleep at least 7hrs report lower days of physical condition not feeling well.
+However, the graph also suggests that people sleep below 7hrs did not seem to report a higher days of physical condition not feeling well.
 
 Let's look at the summary of physhlth & sleeptime (i credted through "mutate"); for better understanding, i will only post necessary summary here
 
@@ -27,6 +30,10 @@ below 7hr  over 7hr
     17472     19539 
 --------------------------------------------------------------- 
 
+On people who report feeling physical condition not well over 30 days suggests that people sleep over 7hrs report physical unwell are even more than people sleep below 7hrs.
+So, sleeping hours might not have that big of impact on physical condition.
 
+
+Research Question 2
 
 
