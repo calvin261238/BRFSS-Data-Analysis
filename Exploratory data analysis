@@ -1,2 +1,32 @@
-#Research Question 1
+Research Question 1
+
+I assumed that the result will be: poeple who sleep at least 7hrs will report lower days of physical condition not feeling well, 
+and people who sleep below 7hrs will report higher days of physical condition not feeling well.
+
+
+Let's look at the summary of physhlth & sleeptime (i credted through "mutate"); for better understanding, i will only post necessary summary here
+
+Sleeptime$physhlth: 0
+below 7hr  over 7hr 
+    86704    214068 
+--------------------------------------------------------------- 
+Sleeptime$physhlth: 10
+below 7hr  over 7hr 
+     4194      6254 
+--------------------------------------------------------------- 
+Sleeptime$physhlth: 20
+below 7hr  over 7hr 
+     2922      3181 
+--------------------------------------------------------------- 
+Sleeptime$physhlth: 25
+below 7hr  over 7hr 
+     1227      1222 
+--------------------------------------------------------------- 
+Sleeptime$physhlth: 30
+below 7hr  over 7hr 
+    17472     19539 
+--------------------------------------------------------------- 
+
+
+
 
