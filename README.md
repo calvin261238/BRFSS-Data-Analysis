@@ -1,25 +1,28 @@
-# Statistics-R-Factors correlates with smoking habits
+# Statistics-R-Project: BRFFS Database
 
 Project Description:
-Identify a research question similar to questions we’ve talked about in this course. Use the Behavioral Risk Factor Surveillance System (BRFSS) dataset (provided below).
+Identify 3 research questions similar to questions introduced at Duke Univerisyt Statistics R course: the Behavioral Risk Factor Surveillance System (BRFSS) dataset (provided below).
 
 #Database:
 Behavioral Risk Factor Surveillance System (BRFSS) dataset from Centers for Disease Control and Prevention (CDC)
 
 
-Introduction:
-The culture of smoking cigarette has existed since 1500s, and was popularized by advertisement through television in the 1930s. The negative effective of smoking on human body has been well researched, and a wide range of research papers has been published steadily.
+#Introduction:
+My research questions are divided into 2 sections. 
+First, i would like to examine whether having enough sleeping time or not will affect people's physical health and the ability to do usual daily tasks. According to National Sleep Foundation, adults normally needs at least 7hrs of sleep to maintain a health status. My hypothesis is that poeple who have sleep at least 7hrs will have better physical health condition, and will have better ability to do usual activities.
+Second, Medicare in U.S is designed to help people over 65+ or people have disabilities. I would like to find out whether income level, medical cost, and disabilities correlates with whether have Medicare or not.
 
-Cigarette smoking causes more than 480,00 deaths each year in U.S, nearly one in five deaths. According to research published by Centers for Disease Control and Prevention (CDC), cigarette smoking harms almost every organ of the body, thus causing many diseases and reduces the health of smokers in general. 
+Research Question 1: 
+Do people sleep at least 7hrs have better physical health condition?
 
-For this research, I’ve decided to find out whether other factors correlate with cigarette smoking as well.
-I’ve picked factors including education level, income level, and emotional and life satisfaction level.
+Research Question 2: 
+Do people sleep at least 7hrs have low difficulty doing usual activities?
 
- ・Education level:
-With increasing level of awareness on smoking could harm body, I assume that the higher education a person could achieve, the lower probability that this person will smoke.
+Research Question 3:
+How income level correlates with medical cost & is Medicare helping people with disabilities?
 
- ・Income level:
-Higher income level usually means more money could use to purchase products, i.e. buying cigarette. I assume that the income level will correlate with the number of people smoking.
+#Exploratory data analysis
 
- ・Emotional and life satisfaction level:
-People who smoke cigarette sometimes suggest that by smoking from time to time could help them relieve stress. I assume that higher emotional support will lead to lower rate of smoking, while...
+
+
+
