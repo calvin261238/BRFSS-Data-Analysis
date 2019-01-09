@@ -1,4 +1,4 @@
-Research Question 1
+# Research Question 1
 
 I assumed that the result will be: poeple who sleep at least 7hrs will report lower days of physical condition not feeling well, 
 and people who sleep below 7hrs will report higher days of physical condition not feeling well.
@@ -34,7 +34,7 @@ On people who report feeling physical condition not well over 30 days suggests t
 So, sleeping hours might not have that big of impact on physical condition.
 
 
-Research Question 2
+# Research Question 2
 
 I assumed that the result will be: poeple who sleep at least 7hrs will report lower days of having difficulty doing usual activities, 
 and people who sleep below 7hrs will report higher days of having difficulty doing usual activities.
@@ -64,7 +64,7 @@ Although the result suggests that sleeping hours did affect ability to do usual 
 Due to this problem, we may need more complete or further research to suggest there is correlation.
 
 
-Research Question 3
+# Research Question 3
 Is income level correlates with medical cost & is Medicare helping lower income people?
 
 Typically, people with lower income level will have difficulty seeing doctor due to high cost. I assumed the result would be:
@@ -125,7 +125,7 @@ brfss2013$income2: $75,000 or more
 Data summary can't really tell the trend, but people who responded "No" increase as income level rises.
 
 
-Additional EDA:
+# Additional EDA:
 Do people with disabilities have used Medicare?
 
 The dataset didn't really have disability question, so i decided to use "Difficulty Dressing or Bathing" observation instead.
