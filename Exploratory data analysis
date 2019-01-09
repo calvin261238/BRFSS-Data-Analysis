@@ -4,7 +4,7 @@ I assumed that the result will be: poeple who sleep at least 7hrs will report lo
 and people who sleep below 7hrs will report higher days of physical condition not feeling well.
 
 Result:
-The graph shows that the assumption is correct; a large amount of people who sleep at least 7hrs report lower days of physical condition not feeling well.
+The graph shows that the assumption is half-correct; a large amount of people who sleep at least 7hrs report lower days of physical condition not feeling well.
 However, the graph also suggests that people sleep below 7hrs did not seem to report a higher days of physical condition not feeling well.
 
 Let's look at the summary of physhlth & sleeptime (i credted through "mutate"); for better understanding, i will only post necessary summary here
@@ -35,5 +35,34 @@ So, sleeping hours might not have that big of impact on physical condition.
 
 
 Research Question 2
+
+I assumed that the result will be: poeple who sleep at least 7hrs will report lower days of having difficulty doing usual activities, 
+and people who sleep below 7hrs will report higher days of having difficulty doing usual activities.
+
+Result:
+The graph shows that the assumption is correct; a large amount of people who sleep at least 7hrs report lower days of plower days of having difficulty doing usual activities.
+Althoguh the numbers are not big enough, the graph also suggests that people sleep below 7hrs did have higher number of days of having difficulty doing usual activities when compared
+to people sleep over 7hrs.
+
+DiffConcentrate$painact2: 0
+below 7hr  over 7hr 
+       95       225 
+--------------------------------------------------------------- 
+DiffConcentrate$painact2: 10
+below 7hr  over 7hr 
+        3         7 
+--------------------------------------------------------------- 
+DiffConcentrate$painact2: 20
+below 7hr  over 7hr 
+        5         3 
+--------------------------------------------------------------- 
+DiffConcentrate$painact2: 30
+below 7hr  over 7hr 
+       33        28 
+
+Although the result suggests that sleeping hours did affect ability to do usual activities, the NAs were too many in the dataset.
+Due to this problem, we may need more complete or further research to suggest there is correlation.
+
+
 
 
