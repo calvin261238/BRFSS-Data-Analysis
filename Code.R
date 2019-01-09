@@ -2,6 +2,7 @@
 library(dplyr)
 library(tidyr)
 library(ggplot2)
+library(scales)
 
 #Examining the Data
 View(brfss2013)
