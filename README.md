@@ -22,6 +22,11 @@ Research Question 3:
 How income level correlates with medical cost & is Medicare helping people with disabilities?
 
 # Exploratory data analysis
+Research Question 1
+Sleeptime <- brfss2013%>%
+  mutate(sleeptime = ifelse(sleptim1 >=7, "over 7hr","below 7hr"))%>%
+  select(physhlth, sleeptime)
+Sleeptime <- na.omit(Sleeptime)
 
 
 
