@@ -64,5 +64,81 @@ Although the result suggests that sleeping hours did affect ability to do usual 
 Due to this problem, we may need more complete or further research to suggest there is correlation.
 
 
+Research Question 3
+Is income level correlates with medical cost & is Medicare helping lower income people?
+
+Typically, people with lower income level will have difficulty seeing doctor due to high cost. I assumed the result would be:
+an decreasing trend as income level rise, people who have difficulty seeing doctor due to high cost will decrease.
+
+Result:
+The graph proves that the assumption is correct. As income level rise, people who responded "Yes" (Having difficulty seeing doctor
+due to high cost) decrease.
+
+brfss2013$income2: Less than $10,000
+                         Yes                           No 
+                        3377                        13269 
+No medication was prescribed                         NA's 
+                        1600                         7195 
+--------------------------------------------------------------- 
+brfss2013$income2: Less than $50,000
+                         Yes                           No 
+                        3129                        36079 
+No medication was prescribed                         NA's 
+                        3699                        18602 
+--------------------------------------------------------------- 
+brfss2013$income2: $75,000 or more
+                         Yes                           No 
+                        2348                        74841 
+No medication was prescribed                         NA's 
+                        6017                        32696 
+
+Now, let's examine whether Medicare's correlation with income level.
+First, Medicare is the federal health insurance program for:
+・People who are 65 or older
+・Certain younger people with disabilities
+・People with End-Stage Renal Disease (permanent kidney failure requiring dialysis or a transplant, sometimes called ESRD)
+In this sense, i assume that people who have lower income level might have Medicare.
+
+Result:
+Seeing from the graph, it shows that as income level rises, people who have Medicare decreases
+
+brfss2013$income2: Less than $10,000
+  Yes    No  NA's 
+ 7643  6549 11249 
+--------------------------------------------------------------- 
+brfss2013$income2: Less than $15,000
+  Yes    No  NA's 
+11035  4675 11084 
+--------------------------------------------------------------- 
+brfss2013$income2: Less than $50,000
+  Yes    No  NA's 
+16608 22635 22266 
+--------------------------------------------------------------- 
+brfss2013$income2: Less than $75,000
+  Yes    No  NA's 
+13281 30386 21564 
+--------------------------------------------------------------- 
+brfss2013$income2: $75,000 or more
+  Yes    No  NA's 
+16490 64455 34957 
+
+Data summary can't really tell the trend, but people who responded "No" increase as income level rises.
 
 
+Additional EDA:
+Do people with disabilities have used Medicare?
+
+The dataset didn't really have disability question, so i decided to use "Difficulty Dressing or Bathing" observation instead.
+Since Medicare is mainly for people over 65+ or people with disability, i assumed that people who responded having 
+difficulty dressing or bathing will have applied for Medicare more. 
+
+Result:
+People who have difficulty dressing or bathing report having Medicare more.
+
+brfss2013$diffdres: Yes
+ Yes   No NA's 
+9989 4090 7573 
+--------------------------------------------------------------- 
+brfss2013$diffdres: No
+   Yes     No   NA's 
+121605 169950 166446 
