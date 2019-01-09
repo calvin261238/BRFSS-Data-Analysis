@@ -24,7 +24,9 @@ Research Question 2:
 Do people sleep at least 7hrs have low difficulty doing usual activities?
 
 Research Question 3:
-How income level correlates with medical cost & is Medicare helping people with disabilities?
+Do income level correlates with medical cost & is Medicare helping people with disabilities?
+
+Additional Research quesion
 
 # To see full analysis and conclusion please see Exploratory data analysis 
 # To see the complete Code please view Code.R
