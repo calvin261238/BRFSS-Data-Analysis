@@ -6,6 +6,11 @@ Identify 3 research questions similar to questions introduced at Duke Univerisyt
 Database:
 Behavioral Risk Factor Surveillance System (BRFSS) dataset from Centers for Disease Control and Prevention (CDC)
 
+Generalizability:
+BRFFS is based on stratified random sample. Potential biases might be caused by missing values (NAs), unfinished interviews, or convenience bias.
+
+Causality:
+The dataset provides observations that can only be viewed as having correlation not causality.
 
 # Introduction & Research Questions:
 My research questions are divided into 2 sections. 
